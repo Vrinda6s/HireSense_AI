@@ -72,6 +72,3 @@ Resume_Ranking_AI/
 ## **🤝 Contributing**  
 Pull requests are welcome! Follow the standard **Git flow** and create a feature branch before submitting PRs.  
 
-## **📜 License**  
-This project is open-source under the **MIT License**.  
-
